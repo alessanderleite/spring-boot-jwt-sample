@@ -1,4 +1,4 @@
-package br.com.alessanderleite;
+package br.com.alessanderleite.security.jwt;
 
 import org.springframework.security.core.AuthenticationException;
 
